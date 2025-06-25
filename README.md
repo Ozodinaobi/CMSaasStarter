@@ -19,7 +19,7 @@
 
 <br/>
 
-# SaaS Starter: A SvelteKit Boilerplate/Template
+# SwindleXpress: A SvelteKit Boilerplate/Template
 
 - [Feature Rich](#features): user auth, user dashboard, marketing site, blog engine, billing/subscriptions, pricing page, search, emails, and more.
 - [Lightning Performance](#performance--best-practices): fast pre-rendered pages which score 100/100 on Google PageSpeed.
